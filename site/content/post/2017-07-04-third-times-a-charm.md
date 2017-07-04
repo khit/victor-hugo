@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Third time's a charm
-date: 07/04/2017 12:02 AM
+date: '07/04/2017 12:02 AM'
 thumbnail: null
 ---
 Testing out new post creation.
@@ -11,3 +11,5 @@ Testing out new post creation.
 What about code? 
 
 The backtick is jacked.
+
+<a href="https://netlifycms.org" target="_blank">Open in a new window</a>

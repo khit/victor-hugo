@@ -12,4 +12,9 @@ What about code?
 
 The backtick is jacked.
 
-<a href="https://netlifycms.org" target="_blank">Open in a new window</a>
+<a href="https://netlifycms.org" target="_blank">Open in a new tab</a>
+
+
+[Kramdown](https://netlifycms.org){:target="_blank"}
+
+

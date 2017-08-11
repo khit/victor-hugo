@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strata</title>
+    <link>/</link>
+    <description>Recent content on Strata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Sep 2016 10:24:16 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What happens with spaces in here?</title>
+      <link>/post/second/</link>
+      <pubDate>Fri, 09 Sep 2016 10:24:16 -0400</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>Here is some text And some more is placed here</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>/post/first/</link>
+      <pubDate>Fri, 09 Sep 2016 10:24:15 -0400</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description> Testing out Netlify CMS on a Hugo boilerplate.
+What we have Generally this was a fine way to go.
+What we see Lots of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Good evening and goodnight. </description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Fri, 09 Sep 2016 10:15:23 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description> This is where our page Markdown content lives. </description>
+    </item>
+    
+    <item>
+      <title>Third time&#39;s a charm</title>
+      <link>/post/2017-07-04-third-times-a-charm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2017-07-04-third-times-a-charm/</guid>
+      <description>Testing out new post creation.
+ This is just a quote.
+ What about code?
+The backtick is jacked.
+Open in a new tab
+Kramdown{:target=&amp;rdquo;_blank&amp;rdquo;}</description>
+    </item>
+    
+  </channel>
+</rss>
